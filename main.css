@@ -1,0 +1,25 @@
+header{
+    background-color: rgb(66, 126, 7);
+}
+body{
+  background-color:rgb(61, 109, 13);
+}
+nav {
+    background-color: rgb(44, 110, 0);
+    opacity: 0.5;
+    line-height: 1cm;
+}
+a {
+    text-decoration: rgb(3, 5, 126);
+    color: darkblue;
+}
+footer {
+    background-color:  rgb(66, 126, 7);
+}
+footer p {
+    text-align: center;
+}  s
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
